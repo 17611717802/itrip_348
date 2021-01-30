@@ -1,0 +1,5 @@
+com\itrip\entity\People.class
+com\itrip\text\TextFreemacket.class
+com\itrip\text\TextFreemacket_1.class
+com\itrip\contoroller\UserContoller.class
+com\itrip\contoroller\HotelContoller.class
